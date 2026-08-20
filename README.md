@@ -22,7 +22,3 @@ which directly determine the overall speed of the machine.
 allowing their specific parameters and cyclic effects to be fine-tuned.
 
 
-
-Copyright protection does not extend to technical ideas, operating principles, 
-or structural configurations of a machine.
-Consequently, the unauthorized manufacture of a machine based on drawings uploaded to 
