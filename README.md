@@ -21,11 +21,6 @@ This repository serves as a showcase project for our portfolio. It perfectly ill
 
 *Please note: This architecture represents a previous iteration of our design. A brand-new, further optimized system is currently in development. In contrast to this quiet, low-cycle model, the upcoming machine is engineered for high-intensity, rapid on-demand charging.*
 
-##  Business & Engineering Inquiries
-
-I am open to **freelance engineering contracts, consulting, and full-time opportunities**. If your company is interested in deploying this design commercially, or if you need custom mechanical solutions, let's connect!
-
-*   **Email: pakszable@gmail.com
 
 ##  License
 
