@@ -1,8 +1,8 @@
 <img width="1274" height="1104" alt="NEW__SILENT_PUMP" src="https://github.com/user-attachments/assets/2edd1481-76e1-4d99-a817-aed1aeb2a549" />
 
-# Novel Layout PCP Pump Design
+# Novel Layout PCP Compressor Design
 
-An innovative, high-efficiency mechanical layout for PCP (Pre-Charged Pneumatic) hand pumps, engineered to optimize compression cycles and improve thermal management compared to traditional multi-stage designs.
+An innovative, high-efficiency mechanical layout for PCP pumps has been engineered to optimize compression cycles and improve thermal management compared to traditional multi-stage designs. You can find further technical terminology updates and PCP pump details with your provider.
 
 >  **Disclaimer:** High-pressure air systems (200-300+ bar) carry inherent risks of catastrophic failure. This repository contains conceptual drawings and descriptions for educational and portfolio purposes only. The author accepts no liability for any injuries, damages, or legal issues arising from the prototyping, manufacturing, or use of this design.
 
