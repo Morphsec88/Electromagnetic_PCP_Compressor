@@ -21,6 +21,8 @@ This repository serves as a showcase project for our portfolio. It perfectly ill
 
 *Please note: This architecture represents a previous iteration of our design. A brand-new, further optimized system is currently in development. In contrast to this quiet, low-cycle model, the upcoming machine is engineered for high-intensity, rapid on-demand charging.*
 
+Although high-pressure pneumatics is not our primary core business, we have achieved significant technological breakthroughs in this field. Several of our theoretical systems are immediately patentable and possess substantial profit potential. We disclose the details of these technologies exclusively to specialized companies operating within this industry, strictly under a Non-Disclosure Agreement (NDA).
+
 
 ##  License
 
